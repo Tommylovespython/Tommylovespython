@@ -5,6 +5,5 @@
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning MySQL
 - 👯 I’m looking to collaborate on Anytime
-- 🤔 I’m looking for help with coding always
 - 💬 Ask me about anything about programming
 
